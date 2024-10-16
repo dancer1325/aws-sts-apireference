@@ -2,6 +2,7 @@
   * 👁-- provided as -- web service / 👁
     * ️enable to request for users, credentials ️	
       * temporary
+        * [check](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html)
       * limited-privilege
   * ways to use the AWS STS API
     * directly 
@@ -21,8 +22,7 @@
       * TODO:
         
 
-* check 
-  * [Temporary Security Credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html)
+* check
   * [Signing AWS API Requests](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv.html)
   * [Query API](https://docs.aws.amazon.com/IAM/latest/UserGuide/programming.html)
   * [using security tokens with other AWS products](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html)
